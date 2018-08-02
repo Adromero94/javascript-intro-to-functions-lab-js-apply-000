@@ -8,6 +8,7 @@ function logShout(string) {
   console.log("HELLO");
 }
 function logWhisper(string) {
+<<<<<<< HEAD
   console.log("hello");
 }
 function sayHiToGrandma(string) {
@@ -20,3 +21,10 @@ function sayHiToGrandma(string) {
   }
 }
 
+=======
+  console.log("hello")
+}
+function sayHiToGrandma(string) {
+  console.log
+}
+>>>>>>> 80dabe108485f4e2e1cbe879a7de3c21b1d9ee5d
